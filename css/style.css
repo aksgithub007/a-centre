@@ -1536,6 +1536,52 @@ margin-bottom:20px;
         padding: 0.5em 1.2em;
         font-size: 0.7em;
     }
+      .sign-btn{
+  	display: none;
+  }
+  .sp-layer.sp-black, .sp-layer.sp-white
+  {
+  	display: none;
+  }
+  .top_nav .container-btn{
+  	margin-top: -30px;
+  }
+  #nav{
+  	height: 400px;
+  }
+  h3.tittle-w3l span img {
+    width: 19%;
+    margin-bottom: 10px;
+}
+h3.tittle-w3l, h3.tittle-w3l-serv {
+        font-size: 1.8em;
+    }
+h3.tittle-w3l span, h3.tittle-w3l-serv span {
+	font-size:0.4em;
+	letter-spacing: 2px;
+}    
+.service-mid-sec p{
+	font-size: 1.1rem;
+	margin-bottom: 0px;
+	line-height:20px;
+}
+.middle-grids .card{
+margin-bottom:20px;
+}
+.sign-btn-crs.aa{
+	margin-left:10px;
+	margin-top:30px;
+}
+.tittle-w3l.blg span img{
+	width:12%;
+}
+.footer-logo h3{
+	text-align: center;
+}
+.footer-logo h3 a img{
+	width:60%;
+}
+
 }
 
 @media(max-width:384px) {
@@ -1554,12 +1600,100 @@ margin-bottom:20px;
         top: 4%;
         left: 40%;
     }
+      .sign-btn{
+  	display: none;
+  }
+  .sp-layer.sp-black, .sp-layer.sp-white
+  {
+  	display: none;
+  }
+  .top_nav .container-btn{
+  	margin-top: -30px;
+  }
+  #nav{
+  	height: 400px;
+  }
+  h3.tittle-w3l span img {
+    width: 19%;
+    margin-bottom: 10px;
+}
+h3.tittle-w3l, h3.tittle-w3l-serv {
+        font-size: 1.8em;
+    }
+h3.tittle-w3l span, h3.tittle-w3l-serv span {
+	font-size:0.4em;
+	letter-spacing: 2px;
+}    
+.service-mid-sec p{
+	font-size: 1.1rem;
+	margin-bottom: 0px;
+	line-height:20px;
+}
+.middle-grids .card{
+margin-bottom:20px;
+}
+.sign-btn-crs.aa{
+	margin-left:10px;
+	margin-top:30px;
+}
+.tittle-w3l.blg span img{
+	width:12%;
+}
+.footer-logo h3{
+	text-align: center;
+}
+.footer-logo h3 a img{
+	width:60%;
+}
 }
 
 @media(max-width:375px) {
-    h3.tittle-w3l {
+   
+      .sign-btn{
+  	display: none;
+  }
+  .sp-layer.sp-black, .sp-layer.sp-white
+  {
+  	display: none;
+  }
+  .top_nav .container-btn{
+  	margin-top: -30px;
+  }
+  #nav{
+  	height: 400px;
+  }
+  h3.tittle-w3l span img {
+    width: 19%;
+    margin-bottom: 10px;
+}
+h3.tittle-w3l, h3.tittle-w3l-serv {
         font-size: 1.8em;
     }
+h3.tittle-w3l span, h3.tittle-w3l-serv span {
+	font-size:0.4em;
+	letter-spacing: 2px;
+}    
+.service-mid-sec p{
+	font-size: 1.1rem;
+	margin-bottom: 0px;
+	line-height:20px;
+}
+.middle-grids .card{
+margin-bottom:20px;
+}
+.sign-btn-crs.aa{
+	margin-left:10px;
+	margin-top:30px;
+}
+.tittle-w3l.blg span img{
+	width:12%;
+}
+.footer-logo h3{
+	text-align: center;
+}
+.footer-logo h3 a img{
+	width:60%;
+}
 }
 
 @media(max-width:320px) {
