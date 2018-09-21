@@ -195,7 +195,8 @@ margin-left: 40%;
     margin-right: 0.5em;
     color:#00d1b2;
     font-size:20px;
-    animation: slide 0.6s linear infinite;
+    animation: slide 1.4s ease-out infinite;
+   
 }
 @keyframes slide{
 	0%{
@@ -1483,10 +1484,10 @@ margin-top:-20px;
   	display: none;
   }
   .top_nav .container-btn{
-  	margin-top: -20px;
+  	margin-top: 0px;
   }
-  #nav{
-  	height: 400px;
+ .top-overlay{
+  	height: 50%;
   }
   h3.tittle-w3l span img {
     width: 19%;
@@ -1546,8 +1547,8 @@ margin-bottom:20px;
   .top_nav .container-btn{
   	margin-top: -30px;
   }
-  #nav{
-  	height: 400px;
+ .top-overlay{
+  	height: 50%;
   }
   h3.tittle-w3l span img {
     width: 19%;
@@ -1610,8 +1611,8 @@ margin-bottom:20px;
   .top_nav .container-btn{
   	margin-top: -30px;
   }
-  #nav{
-  	height: 400px;
+  .top-overlay{
+  	height: 50%;
   }
   h3.tittle-w3l span img {
     width: 19%;
@@ -1659,8 +1660,8 @@ margin-bottom:20px;
   .top_nav .container-btn{
   	margin-top: -30px;
   }
-  #nav{
-  	height: 400px;
+  .top-overlay{
+  	height: 50%;
   }
   h3.tittle-w3l span img {
     width: 19%;
@@ -1707,8 +1708,8 @@ margin-bottom:20px;
   .top_nav .container-btn{
   	margin-top: -30px;
   }
-  #nav{
-  	height: 400px;
+  .top-overlay{
+  	height: 50%;
   }
   h3.tittle-w3l span img {
     width: 19%;
