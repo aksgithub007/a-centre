@@ -126,7 +126,7 @@ margin-bottom:10px;
 h3.tittle-w3l {
     text-shadow: 2px 2px 2px rgba(41, 41, 41, 0.26);
     font-size: 3em;
-    color: #3d3e48;
+    color: #1157a8;
     font-weight: 600;
 }
 h3.tittle-w3l-serv {
@@ -188,8 +188,11 @@ h3.tittle-w3l-serv span {
 margin-left: 40%;
 }
 .sign-btn-crs a:hover{
-	border: 2px solid #333;
-	color: #000;
+	border: 2px solid #1b3d82;
+	color: #1b3d82;
+}
+.sign-btn-crs a:hover i{
+	color: #1b3d82;
 }
 .sign-btn-crs a i {
     margin-right: 0.5em;
@@ -254,8 +257,9 @@ margin-left: 40%;
 .about-in .card i {
     font-size: 1.5em;
     margin-bottom: 0.7em;
-    color: #30c39e;
+    color: #1b3d82;
 }
+
 .middle-grids .card {
     padding: 2em 1em;
     box-sizing: border-box;

@@ -189,7 +189,7 @@ ul.first-nav li {
     display: inline-block;
     list-style: none;
 }
-
+ul.first-nav li a:hover,
 ul.first-nav li a.active {
     color: #ec1c24;
 }

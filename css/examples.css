@@ -21,6 +21,9 @@ p.sp-layer.sp-white.sp-padding.hide-medium-screen i {
     animation: slide 1.4s ease-out infinite;
 
 }
+p.sp-layer.sp-white.sp-padding.hide-medium-screen:hover i{
+	color: #ec1c24;
+}
 
 @keyframes slide{
 	0%{
